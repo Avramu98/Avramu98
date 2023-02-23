@@ -1,7 +1,8 @@
 <div align="center">
   <img align="center" src="https://media.licdn.com/dms/image/C4E16AQHzMrwQZYRYxw/profile-displaybackgroundimage-shrink_200_800/0/1638971694466?e=2147483647&v=beta&t=58w_dHxiEmsKp0gnoCQ1ftEJsXAQpBmIM4QBVDB3W7o" alt="background"/>
 </div>
-<h1 align="center">Hi 👋, I'm Avram Vlad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vlad Avram</h1>
+
 <h3 align="center">Creating Exceptional Web Experiences with Passion and Purpose</h3>
 
 <hr/>
@@ -24,6 +25,17 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help!<br>
 ✔ Fun fact : *I used to be a Law school student. Guess anyone can change their mind*<br><br><br><br>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+
+<hr/>
 
 <h3 align="center">Languages and Tools:</h3>
 
