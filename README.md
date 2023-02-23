@@ -4,10 +4,26 @@
 <h1 align="center">Hi 👋, I'm Avram Vlad</h1>
 <h3 align="center">Creating Exceptional Web Experiences with Passion and Purpose</h3>
 
+<hr/>
 
-- 📫 How to reach me **avram.vlad98@gmail.com**
+<h4 align="center">
+  <i>Do you know what happens when you combine a passionate web developer with React and Next.js? You get a website that's fast, beautiful, and intuitive to use!</i>
+<br/>
+<i>That's exactly what you can expect from me. I'm ready to bring your online presence to life. I have a friendly and approachable attitude, and I'm motivated to create a site that not only meets your needs but exceeds your expectations.</i>
+<br/>
+<i>Whether you're starting from scratch or need to upgrade your existing website, I'm your go-to expert. I know how to use React and Next.js to make your website responsive, scalable, and easy to navigate.</i>
+<br/>
+<i>So if you're ready to take your website to the next level, look no further. I'm eager to work with you and create a website that you'll be proud to show off to the world! </i>
+  </p>
 
-- ⚡ Fun fact **I used to be a Law School student. I guess anyone can change their mind.**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ Pronouns: ***He/His***<br>
+✔ I’m currently Developing **RasnoPH** A portfolio for a photographer<br>
+✔ I’m currently digging deeper into **NextJS**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ Ask me about anything, I am happy to help!<br>
+✔ Fun fact : *I used to be a Law school student. Guess anyone can change their mind*<br><br><br><br>
 
 <h3 align="center">Languages and Tools:</h3>
 
