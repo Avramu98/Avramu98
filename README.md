@@ -19,7 +19,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His***<br>
 ✔ I’m currently Developing **RasnoPH** A portfolio for a photographer<br>
 ✔ I’m currently digging deeper into **NextJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
