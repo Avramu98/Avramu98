@@ -19,7 +19,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently Developing **RasnoPH** A portfolio for a photographer<br>
+✔ Currently working on a task management app for a small company<br>
+✔ I developed a personal project **RasnoPH** A portfolio for a photographer<br>
 ✔ I’m currently digging deeper into **NextJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help!<br>
